@@ -27,10 +27,5 @@ This dashboard visualizes sales performance data for 50 employees from various c
 - Slicers
 - VBA (for automation)
 
-## 📁 File
-
-- `Pakistani_Employee_Sales_Report.xlsm` — Main dashboard file
-
----
 
 Thanks for viewing my project! 😄 Feel free to explore and give feedback.
